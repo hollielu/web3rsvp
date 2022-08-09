@@ -1,0 +1,19 @@
+{
+  "name": "web3rsvp",
+  "version": "1.0.0",
+  "description": "Web3 native Eventbrite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollielu/web3rsvp.git"
+  },
+  "author": "Hollie Lambert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hollielu/web3rsvp/issues"
+  },
+  "homepage": "https://github.com/hollielu/web3rsvp#readme"
+}
